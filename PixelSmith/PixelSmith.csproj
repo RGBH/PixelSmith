@@ -74,6 +74,7 @@
     <Compile Include="Effects\RippleEffect.cs" />
     <Compile Include="Effects\ToonShaderEffect.cs" />
     <Compile Include="Models\ArtDataSource.cs" />
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="ScatterPlot.cs" />
     <Compile Include="SelectImages.xaml.cs">
       <DependentUpon>SelectImages.xaml</DependentUpon>
